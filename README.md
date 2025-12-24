@@ -26,16 +26,15 @@
 
 - 🛠️ **Automated Student Coding Activity Tracking System**  
   Tracks coding progress and sends smart reminders using web scraping and messaging APIs.
+   🔗 Live: https://github.com/Yuvanaswar/Automated-Student-Coding-Activity-Tracking-and-Reminder-System-Using-Web-Scraping-and-Messaging-APIs
 
 - 🌐 **Personal Portfolio Website**  
-  Creative static website built using **pure HTML & CSS (no JavaScript)**.  
+  Creative static website built using **pure HTML & CSS (no JavaScript)**.
   🔗 Live: https://yuvanaswar.github.io
 
 - 🤖 **AI & ML Practice Projects**  
   Hands-on learning through ML models, datasets, and evaluation techniques.
   
-  🔗 Live: https://github.com/Yuvanaswar/Automated-Student-Coding-Activity-Tracking-and-Reminder-System-Using-Web-Scraping-and-Messaging-APIs
-
 ---
 
 ## 🌍 International Conference Publication
