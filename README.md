@@ -42,7 +42,7 @@ Tracks coding progress and sends smart reminders using web scraping and messagin
 ## 🌍 International Conference Publication
 
 📄 **Automated Student Coding Activity Tracking and Reminder System Using Web Scraping and Messaging APIs**  
-🎓 **International Conference on Artificial Intelligence and Secure Data Analytics (ICAISDA-2025)**  
+🎓 **International Conference on Artificial Intelligence and Secure Data Analytics (ICAISDA-2025)** 
 📌 *Research paper accepted and published*
 
 - Automated tracking of student coding activity  
@@ -128,7 +128,24 @@ Manakula Vinayagar Institute of Technology, Puducherry
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvanaswar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=3B82F6&point=38BDF8&area=true&radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuvanaswar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvanaswar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvanaswar&theme=tokyo-night&hide_border=true&area=true&radius=12" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvanaswar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yuvanaswar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuvanaswar&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
 </p>
 ---
 
