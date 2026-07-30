@@ -12,9 +12,11 @@
 
 ---
 
-## 👋 About Me
+## 🔥 About Me
 
-AI & ML undergraduate passionate about Machine Learning and Artificial Intelligence, with experience gained through academic projects in developing practical AI solutions. Seeking an opportunity to contribute, learn, and grow as an AI/ML Engineer while strengthening problem-solving and software development skills.
+👋 I'm **Yuvanaswar P J**, an aspiring AI & Machine Learning Engineer from **Manakula Vinayagar Institute of Technology, Puducherry**.  
+🚀 Passionate about developing AI-powered applications, machine learning solutions, and impactful software projects.  
+🧠 Continuously learning, experimenting with modern AI technologies, and contributing through research, hackathons, and collaborative projects.
 
 ---
 
