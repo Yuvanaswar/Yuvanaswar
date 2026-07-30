@@ -1,254 +1,139 @@
-# 🌐 Yuvanaswar P J | Developer Portfolio
+<!--
+**Yuvanaswar/Yuvanaswar** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
 
-> A modern, responsive developer portfolio showcasing my journey in Artificial Intelligence, Machine Learning, software development, research, and technical projects.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&width=460&lines=Hey+there%2C+I'm+Yuvanaswar!" />
+</h1>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuvanaswar&color=blueviolet" alt="profile views" />
 </p>
 
-## 🚀 Live Demo
+---
 
-🔗 **Portfolio Website:** https://yuvanaswar.github.io
+## 🔥 About Me
+
+👋 I'm **Yuvanaswar**, a **B.Tech Artificial Intelligence & Machine Learning** student.  
+🎓 Studying at **Manakula Vinayagar Institute of Technology, Puducherry**.  
+🚀 Passionate about **AI, Generative AI, Machine Learning, and Data-driven systems**.  
+🧠 Actively improving skills in **Python, SQL, ML, and core computer science**.  
+🤝 Open to **internships, research work, workshops, and collaborations**.
 
 ---
 
-## 📸 Preview
+## 🔨 What I'm Currently Working On
 
-> Add a screenshot of your portfolio inside an **assets** folder.
+- 🛠️ **Automated Student Coding Activity Tracking System**  
+  Tracks coding progress and sends smart reminders using web scraping and messaging APIs.
+  
+   🔗 Live: https://github.com/Yuvanaswar/Automated-Student-Coding-Activity-Tracking-and-Reminder-System-Using-Web-Scraping-and-Messaging-APIs
 
-```text
-assets/
-└── preview.png
-```
+- 🌐 **Personal Portfolio Website**  
+  Creative static website built using **pure HTML & CSS (no JavaScript)**.
+  🔗 Live: https://yuvanaswar.github.io
 
-```markdown
-![Portfolio Preview](./assets/preview.png)
-```
-
----
-
-# ✨ Features
-
-- 🎨 Modern dark UI with blue & violet gradient accents
-- 📱 Fully responsive across desktop, tablet and mobile
-- ⚡ Smooth scrolling navigation
-- ✨ Scroll reveal animations
-- 🌐 Interactive hero section
-- 💼 Professional About section
-- 🎓 Education Timeline
-- 🛠 Skills & Technologies
-- 💻 Featured Projects
-- 🏆 Certifications & Achievements
-- 📬 Contact Form
-- 🔗 Social Media Integration
-- 🌙 Dark Theme
-- 🚀 Optimized for GitHub Pages deployment
+- 🤖 **AI & ML Practice Projects**  
+  Hands-on learning through ML models, datasets, and evaluation techniques.
 
 ---
 
-# 🛠 Built With
+## 🌍 International Conference Publication
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- Google Fonts
-- Font Awesome
+📄 **Automated Student Coding Activity Tracking and Reminder System Using Web Scraping and Messaging APIs**  
+🎓 **International Conference on Artificial Intelligence and Secure Data Analytics (ICAISDA-2025)**  
+📌 *Research paper accepted and published*
 
-> No frameworks or libraries were used.
-
----
-
-# 📂 Project Structure
-
-```text
-portfolio-website/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── preview.png
-│
-├── resume.pdf
-└── README.md
-```
+- Automated tracking of student coding activity  
+- Integrated web scraping with messaging APIs  
+- Applied AI concepts for performance monitoring and intelligent reminders  
 
 ---
 
-# 🚀 Getting Started
+## 🏅 Certifications, Workshops & Achievements
 
-### Clone the repository
-
-```bash
-git clone https://github.com/Yuvanaswar/yuvanaswar.github.io.git
-```
-
-### Open the project
-
-```bash
-cd yuvanaswar.github.io
-```
-
-Simply open
-
-```text
-index.html
-```
-
-in your browser.
-
-or use VS Code Live Server.
+- 🌍 **International Paper Publication – ICAISDA-2025**
+- ✅ **Generative AI Workshop – IIT (2 Days)**  
+  Covered Transformers, RAG, GANs, Autoencoders, NLP, and LLM tools
+- ✅ Hands-on experience with Python, SQL, and ML systems  
+- 🎯 Actively preparing for internships and placements  
 
 ---
 
-# 🎨 Customization
+## 🌟 Key Projects
 
-Update your information inside:
-
-### Personal Information
-
-```text
-index.html
-```
-
-Update
-
-- Name
-- About
-- Education
-- Experience
-- Skills
-- Projects
-- Certifications
-- Contact Details
-
-### Styling
-
-```text
-style.css
-```
-
-Modify
-
-- Colors
-- Fonts
-- Gradients
-- Layout
-- Animations
-- Responsive Design
-
-### Functionality
-
-```text
-script.js
-```
-
-Update
-
-- Navigation
-- Scroll Animations
-- Theme Toggle
-- Contact Form Logic
-- Interactive Effects
+### 1️⃣ Automated Student Coding Activity Tracking System
+Tracks student coding activity and sends reminders automatically.  
+- **Tech**: Python, Web Scraping, Messaging APIs  
+- **Type**: Research + Implementation Project  
 
 ---
 
-# 🚀 Deployment
-
-## GitHub Pages
-
-1. Push the project to GitHub.
-2. Go to **Repository Settings**.
-3. Open **Pages**.
-4. Choose
-
-```text
-Deploy from Branch
-```
-
-5. Select
-
-```text
-main
-```
-
-Branch
-
-6. Save.
-
-Your portfolio will be available at
-
-```text
-https://yuvanaswar.github.io
-```
+### 2️⃣ Portfolio Website
+Personal static website showcasing skills and projects.  
+- **Tech**: HTML5, CSS3  
+- **Live**: https://yuvanaswar.github.io  
 
 ---
 
-## Netlify
-
-1. Login to Netlify
-2. Click **Add New Site**
-3. Import Existing Repository
-4. Select GitHub Repository
-5. Deploy
-
-No build configuration required.
+### 3️⃣ AI & ML Mini Projects
+Collection of beginner and intermediate machine learning models.  
+- **Tech**: Python, pandas, scikit-learn  
 
 ---
 
-# 👨‍💻 About Me
+## 📚 Education
 
-I'm an **Artificial Intelligence & Machine Learning undergraduate** passionate about building intelligent systems and solving real-world problems through AI, Machine Learning, and software development.
-
-### Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Web Development
-- Generative AI
-- Prompt Engineering
-- AI Tools & Automation
+🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
+Manakula Vinayagar Institute of Technology, Puducherry  
+📅 **2023 – 2027**
 
 ---
 
-# 🏆 Highlights
+## 💻 Coding & Learning Platforms
 
-- 📄 International Research Paper Publication (ICAISDA 2025)
-- 🤖 AI Ignite National Hackathon Participant
-- 🏅 Technovation 2K25 Participant
-- 📊 Built AI & Machine Learning Projects
-- 🌱 Continuously exploring modern AI technologies and developer tools
+- LeetCode  
+- HackerRank  
+- CodeChef  
 
 ---
 
-# 📬 Connect With Me
+## 🛠 Tech Stack
 
-- 📧 **Email:** your-email@example.com
-- 💼 **LinkedIn:** https://linkedin.com/in/your-profile
-- 🧑‍💻 **GitHub:** https://github.com/Yuvanaswar
-- 🌐 **Portfolio:** https://yuvanaswar.github.io
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
-Feel free to fork this repository, use it for learning, and customize it for your own portfolio.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 
 ---
 
-<div align="center">
+## 📄 View My Resume
 
-### ⭐ If you like this project, consider giving it a Star!
+📄 **Resume PDF**  
+👉 *(Add your Google Drive resume link here)*
 
-Made with ❤️ by **Yuvanaswar P J**
+---
 
-</div>
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvanaswar&theme=react-dark&area=true" />
+</p>
+
+---
+
+## 💬 Fun Fact
+
+> "I learn best by building and experimenting."
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: yuvanaswar@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/yuvanaswar-p-j / 
+- 🌐 Portfolio: https://yuvanaswar.github.io  
+- 🧑‍💻 GitHub: https://github.com/Yuvanaswar
