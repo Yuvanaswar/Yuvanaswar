@@ -52,21 +52,22 @@ Tracks coding progress and sends smart reminders using web scraping and messagin
 ---
 ## 🏅 Certifications, Workshops & Achievements
 
-- 📄 **International Research Paper Publication – ICAISDA 2025**
-  - Published and presented **"Automated Student Coding Activity Tracking and Reminder System Using Web Scraping and Messaging APIs"** at the First International Conference on Artificial Intelligence and Secure Data Analytics (ICAISDA 2025).
+## 🏅 Certifications, Workshops & Achievements
 
-- 🤖 **Mastering Generative AI**
-  - Completed hands-on training in **Large Language Models (LLMs)**, **Prompt Engineering**, AI tools, and practical Generative AI application development.
+- 📄 **International Research Paper Publication – ICAISDA 2025**  
+  Published and presented *"Automated Student Coding Activity Tracking and Reminder System Using Web Scraping and Messaging APIs"*.
 
+- 🤖 **Mastering Generative AI Workshop**  
+  Hands-on training in Large Language Models (LLMs), Prompt Engineering, and Generative AI applications.
 
-- 🚀 **StudAI Foundry Hackathon**
-  - Participated in an AI-focused hackathon, collaborating to build innovative AI-driven solutions in a competitive environment.
+- 🚀 **StudAI Foundry Hackathon**  
+  Built AI-powered solutions in a collaborative hackathon environment.
 
-- 🏆 **Cognizant Technoverse Hackathon 2026**
-  - Participated in a national-level hackathon focused on solving real-world technology challenges.
+- 🏆 **Cognizant Technoverse Hackathon 2026**  
+  Participated in a national-level hackathon focused on solving real-world technology challenges.
 
-- 💡 **Google Build with AI – Solution Challenge 2026**
-  - Explored and developed AI-powered solutions using modern Generative AI technologies and Google AI tools.
+- 💡 **Google Build with AI – Solution Challenge 2026**  
+  Explored and developed AI-powered solutions using Google's Generative AI technologies.
 
 ---
 
