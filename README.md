@@ -12,13 +12,9 @@
 
 ---
 
-## 🔥 About Me
+## 👋 About Me
 
-👋 I'm **Yuvanaswar**, a **B.Tech Artificial Intelligence & Machine Learning** student.  
-🎓 Studying at **Manakula Vinayagar Institute of Technology, Puducherry**.  
-🚀 Passionate about **AI, Generative AI, Machine Learning, and Data-driven systems**.  
-🧠 Actively improving skills in **Python, SQL, ML, and core computer science**.  
-🤝 Open to **internships, research work, workshops, and collaborations**.
+AI & ML undergraduate passionate about Machine Learning and Artificial Intelligence, with experience gained through academic projects in developing practical AI solutions. Seeking an opportunity to contribute, learn, and grow as an AI/ML Engineer while strengthening problem-solving and software development skills.
 
 ---
 
@@ -50,8 +46,6 @@ Tracks coding progress and sends smart reminders using web scraping and messagin
 - Applied AI concepts for performance monitoring and intelligent reminders  
 
 ---
-## 🏅 Certifications, Workshops & Achievements
-
 ## 🏅 Certifications, Workshops & Achievements
 
 - 📄 **International Research Paper Publication – ICAISDA 2025**  
