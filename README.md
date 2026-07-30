@@ -77,6 +77,8 @@ Tracks student coding activity and sends reminders automatically.
 - **Tech**: Python, Web Scraping, Messaging APIs  
 - **Type**: Research + Implementation Project
 
+---
+
 ### 2️⃣ Credit Card Fraud Detection Using Machine Learning
 Built a machine learning model to detect fraudulent credit card transactions through data preprocessing, feature engineering, and predictive analytics.
 - **Tech**: Python, Scikit-learn, Pandas, NumPy, Random Forest
@@ -88,8 +90,8 @@ Built a machine learning model to detect fraudulent credit card transactions thr
 Designed and developed a modern, responsive developer portfolio to showcase projects, skills, certifications, and achievements with a premium user experience.
 - **Tech**: HTML5, CSS3, JavaScript
 - **Type**: Frontend Web Development Project
-- **Live**: https://yuvanaswar.github.io  
-
+- **Live**: https://yuvanaswar.github.io
+  
 ---
 
 ### 4️⃣ AI Tools Exploration & Learning Hub
@@ -127,8 +129,9 @@ Manakula Vinayagar Institute of Technology, Puducherry
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/Yuvanaswar/Yuvanaswar/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ---
 
 ## 💬 Fun Fact
