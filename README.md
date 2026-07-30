@@ -129,7 +129,7 @@ Manakula Vinayagar Institute of Technology, Puducherry
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yuvanaswar/Yuvanaswar/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvanaswar&theme=tokyonight" />
 </p>
 
 ---
